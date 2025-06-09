@@ -12,7 +12,7 @@ headers = {
     "Accept": "*/*",
 }
 base_params = {
-    "STOCK_TYPE": "1",
+    "STOCK_TYPE": "1", #1主板A股 2主板B股 8科创板
     "REG_PROVINCE": "",
     "CSRC_CODE": "",
     "STOCK_CODE": "",
